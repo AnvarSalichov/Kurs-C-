@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Kurs C#\\Lekcia1\\1\\1.csproj": {}
+    "D:\\C#\\Kurs C#\\Lekcia1\\1 sum a b\\1.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Kurs C#\\Lekcia1\\1\\1.csproj": {
+    "D:\\C#\\Kurs C#\\Lekcia1\\1 sum a b\\1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Kurs C#\\Lekcia1\\1\\1.csproj",
+        "projectUniqueName": "D:\\C#\\Kurs C#\\Lekcia1\\1 sum a b\\1.csproj",
         "projectName": "1",
-        "projectPath": "D:\\C#\\Kurs C#\\Lekcia1\\1\\1.csproj",
+        "projectPath": "D:\\C#\\Kurs C#\\Lekcia1\\1 sum a b\\1.csproj",
         "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Kurs C#\\Lekcia1\\1\\obj\\",
+        "outputPath": "D:\\C#\\Kurs C#\\Lekcia1\\1 sum a b\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config"
